@@ -1,0 +1,7 @@
+body {
+    background-color: #eee;
+}
+.container {
+    background-color: aqua;
+    box-shadow: 2px 2px 2px;
+}
